@@ -6,5 +6,3 @@ git clone git@github.com:matt-szabo/gamerview.git
 npm install
 <br>
 npm start
-
-thanks
